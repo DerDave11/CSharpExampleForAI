@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System;
 
 namespace LunarDoggo.QuizGame
-{
+///{
     /// <summary>
     /// This class contains the logic to run the game
     /// </summary>
