@@ -1,4 +1,6 @@
 # CSharpBeginnerProjects
+**This is a test Repo for auto AI code review** 
+
 In this repository you'll find some basic example projects showcasing some important features of C#, as well as some basic algorithms and datastructures that are a must know in the field of computer science.
 
 The project is provided _without_ any warranty under the Unilicense, so that the code can be used in any private or commercial project with or without modifications.
