@@ -48,6 +48,7 @@ namespace LunarDoggo.ConsoleIOValidation
              * that you write the class-name before the variable-name in order to give you more information about its context.
              * here we just add some entries to the games-dictionary
              */
+                        Program.games.Add("Messed up formating and new line");
             Program.games.Add("The Wither 3 - Wild Hunt");
             Program.games.Add("Baba is you");
             Program.games.Add("Factorio");
