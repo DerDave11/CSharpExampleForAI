@@ -1,5 +1,5 @@
 # CSharpBeginnerProjects
-**This is a test Repo for auto AI code review** 
+**This is a test Repo for auto AI code review. Let's see what we get out of this** 
 
 In this repository you'll find some basic example projects showcasing some important features of C#, as well as some basic algorithms and datastructures that are a must know in the field of computer science.
 
