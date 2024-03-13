@@ -9,7 +9,7 @@
         {
             this.Display = display;
             this.Id = id;
-        }
+        /// }
 
         //For tic tac toe this is usually set to either "X" or "O" 
         /// <summary>
