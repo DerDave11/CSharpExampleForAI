@@ -14,6 +14,8 @@ namespace LunarDoggo.ConsoleIO
         static void Main(string[] args)
         {
             //Console.WriteLine() writes the provided string to the console-window and sets the cursor to the next line
+                        Console.WriteLine("Bad whitespace & missing semicolon")
+
             Console.WriteLine("Hi, I'm a simple console application written in C# that can prompt the user for input.");
             //Console.WriteLine() without any provided string just adds an empty line to the console output
             Console.WriteLine();
